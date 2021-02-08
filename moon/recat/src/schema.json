@@ -1,0 +1,25 @@
+{
+    "name":"PormotionsList",
+    "data":[
+    {
+        "fieldName":"pormotionName",
+        "type":"String"
+    },
+    {
+        "fieldName":"type",
+        "type":"String"
+    },
+    {
+        "fieldName":"startDate",
+        "type":"Date"
+    },
+    {
+        "fieldName":"endtDate",
+        "type":"Date"
+    },
+    {
+        "fieldName":"groupName",
+        "type":"String"
+    }
+]
+}
